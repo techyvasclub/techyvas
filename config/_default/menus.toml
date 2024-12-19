@@ -1,0 +1,11 @@
+[[navbar]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 2

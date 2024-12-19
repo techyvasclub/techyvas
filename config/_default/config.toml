@@ -1,0 +1,18 @@
+baseURL = "https://example.com"
+languageCode = "en"
+title = "Techy VAs Club"
+theme = "hugo-theme-monochrome"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableGitInfo = true
+
+[pagination]
+pagerSize = 7
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
